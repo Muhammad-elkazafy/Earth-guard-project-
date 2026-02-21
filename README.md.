@@ -1,0 +1,23 @@
+# Earth Guard Project 🌍🌱
+**Smart Greenhouse & IoT Monitoring System for Medicinal Plants**
+
+## 📖 Overview
+The **Earth Guard** project is an innovative IoT-based smart greenhouse system specifically designed for cultivating **medicinal plants**. Since medicinal plants require highly precise environmental conditions to thrive and maintain their active therapeutic compounds, this system automates irrigation and monitors climate parameters (water, humidity, and light) to ensure ideal growth while optimizing water and energy usage.
+
+## 🛠️ Hardware & Technologies
+* **Microcontroller:** ESP32
+* **Sensors:** Soil Moisture, and LDR (Light Sensors)
+* **Actuators:** Water Pumps
+* **Software & IoT:** **Blynk App** (for IoT integration)
+
+## 🚀 Key Features
+* **Remote Control & Monitoring:** Fully integrated with the **Blynk application**, allowing users to monitor live sensor data and control the greenhouse actuators remotely from a smartphone.
+* **Automated Irrigation:** Smart watering system that activates based on real-time soil moisture levels.
+* **Climate Tracking:** Continuous monitoring of temperature, humidity, and light exposure to maintain the perfect environment for sensitive plants.
+
+## 🏆 Project Achievements
+* Successfully led a technical team to develop and implement this system.
+* Reached the **Semi-Finals** and ranked among the **Top 20 teams in Egypt** in the "Fanni Mobtaker" (Innovative Technician) competition.
+
+## 📸 Documentation
+This repository contains the visual documentation, system photos, and circuit diagrams of the project.
